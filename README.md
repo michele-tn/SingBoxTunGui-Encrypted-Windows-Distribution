@@ -1,5 +1,4 @@
-# SingBoxTunGui Encrypted Windows Distribution
-
+<!-- # SingBoxTunGui Encrypted Windows Distribution -->
 ![SingBoxTunGui project presentation](https://raw.githubusercontent.com/michele-tn/sing-box-TUN-Controller-PowerShell-GUI-Shadowsocks-VPN-like-Connector-for-Windows/refs/heads/main/BUILD_ENCRYPTED_EXE/assets/project-presentation.svg)
 
 ## Downloads
